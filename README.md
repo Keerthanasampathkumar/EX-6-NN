@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME: Gopika R</H3>
-<H3>ENTER YOUR REGISTER NO: 212222240031</H3>
+<H3>ENTER YOUR NAME: KEERTHANA S</H3>
+<H3>ENTER YOUR REGISTER NO: 212222230066</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
@@ -18,7 +18,7 @@ Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 
 ### Program:
-```
+```python
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
