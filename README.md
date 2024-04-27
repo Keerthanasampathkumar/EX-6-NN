@@ -1,5 +1,5 @@
-3>ENTER YOUR NAME: KEERTHANA S</H3>
-<H3>ENTER YOUR REGISTER NO: 212222230066</H3>
+<H3>ENTER YOUR NAME: Gopika R</H3>
+<H3>ENTER YOUR REGISTER NO: 212222240031</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
@@ -16,10 +16,9 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
-<H3>Program: </H3>
 
-### PROGRAM
-```python
+### Program:
+```
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -52,10 +51,12 @@ print("Classification Report")
 print(classification_rep)
 ```
 
-<H3>Output:</H3>
-![exno06](https://github.com/Keerthanasampathkumar/EX-6-NN/assets/119477890/d1343c83-d9a6-4463-8936-e1a97c1b2d9b)
+
+### Output:
+![Screenshot 2024-04-25 114332](https://github.com/Gopika-9266/EX-6-NN/assets/122762773/fbe34521-be82-4385-aebe-4783deececaf)
+
+![Screenshot 2024-04-25 114341](https://github.com/Gopika-9266/EX-6-NN/assets/122762773/bae5f599-7de0-49fb-b571-470cfb0c8e65)
+
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
-
-  
